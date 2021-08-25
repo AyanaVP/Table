@@ -1,0 +1,15 @@
+table,td,th{
+	border: 1px solid black;
+	border-collapse: collapse;
+	}
+
+td,th{
+	padding: 10px;
+	text-align: left;
+	}
+.tr_bg{
+	background-color: lightblue;
+}
+.tr_bg_grey{
+	background-color: #f2f2f2;
+}
